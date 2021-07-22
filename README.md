@@ -9,7 +9,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nieshiming/nieshiming)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width=380 height=243 />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width=355 height=227 />
 
  - 🔗 website: [will complete](https://github.com/nieshiming)
  - 💬  mailbox: [nieshiming1219@163.com](mailto:nieshiming1219@163.com)
