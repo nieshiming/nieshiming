@@ -31,3 +31,9 @@
 </div>
 
 
+-------
+**📝 2021 Goal**
+- Launch own website
+- read the react source code
+- familiar with nodejs and koa
+- deep understanding of webpack and babel
