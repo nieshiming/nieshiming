@@ -13,7 +13,7 @@
 
           
 - 📫 blog: [levi的小酒馆](https://nieshiming.github.io/)
-- 🔗 website: [will complete](https://github.com/nieshiming)
+- 🔗 website: [nieshiming.cn](https://nieshiming.cn)
 - 💬  mailbox: [nieshiming1219@163.com](mailto:nieshiming1219@163.com)
 
 
